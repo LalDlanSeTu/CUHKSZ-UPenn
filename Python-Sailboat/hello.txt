@@ -1,0 +1,3 @@
+#!/usr/bin/python 
+While True:
+  print("高中");
